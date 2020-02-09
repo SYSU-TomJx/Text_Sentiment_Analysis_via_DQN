@@ -1,0 +1,2 @@
+model_checkpoint_path: "crtic_3000.HDF5"
+all_model_checkpoint_paths: "crtic_3000.HDF5"
