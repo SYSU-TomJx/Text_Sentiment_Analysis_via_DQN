@@ -1,6 +1,6 @@
 # 基于深度强化学习的文本情感分析
 1. 本程序的模型基于tensorflow1.12下的tf.keras接口以及sklearn进行编写, 主要包括:
-    - 论文中的阐述的DRL模型; 
+    - DQN模型; 
     - Bi-LSTM;
     - SVM.
 2. 词向量的训练由gensim完成, 具体见run.py或dqn_sa.ipynb.
