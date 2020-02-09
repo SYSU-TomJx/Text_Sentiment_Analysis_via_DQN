@@ -24,5 +24,7 @@
     - mode为执行模式, 对DQN和LSTM有效, 可选[train, eval]中之一, train为训练, 
     eval为评估. 当使用评估模式时, 需要确保模型路径存在. SVM可忽略此项.
 2. dqn_sa.ipynb的运行
-    - 此处提供了ipynb脚本, 通过jupyter-notebook打开即可, 功能与第1点相同.
-    - 为方便浏览, 这里导出了dqn_sa.html, 可通过浏览器打开浏览.
+    - 此处提供了ipynb脚本, 通过jupyter-notebook打开即可, 功能与第2点相同.
+
+### 参考
+https://zhuanlan.zhihu.com/p/32818105
